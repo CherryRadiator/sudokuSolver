@@ -23,8 +23,8 @@ private:
     static const int CELL_MARGIN = 2;
     static const int GRID_START_X = 20;
     static const int GRID_START_Y = 20;
-    static const int WINDOW_WIDTH = 400;
-    static const int WINDOW_HEIGHT = 450;
+    static const int WINDOW_WIDTH = 500;
+    static const int WINDOW_HEIGHT = 500;
 
 public:
     SudokuSolverGUI() {
