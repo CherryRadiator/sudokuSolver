@@ -1,1 +1,9 @@
 sudokuSolver.o
+screen.png
+cropTool
+matchTemplate
+templatePreprocessor
+templates (Copy)/
+.vscode/
+sudoku_solver
+sudokuGUI
